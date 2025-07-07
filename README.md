@@ -15,6 +15,7 @@ Passionate MERN Stack Developer — Crafting Scalable Web Applications and Conti
 ---
 [![](https://visitcount.itsvg.in/api?id=TarnvirSingh2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://leetcard.jacoblin.cool/Tarnvir_Singh?site=cn)
+<!--![](https://leetcard.jacoblin.cool/Tarnvir_Singh?site=cn)-->
+https://leetcard.jacoblin.cool/Tarnvir_Singh
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
